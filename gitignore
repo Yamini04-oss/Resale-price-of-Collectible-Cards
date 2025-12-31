@@ -1,0 +1,3 @@
+.Rhistory
+.RData
+*.csv  # If dataset is large, you can ignore it
